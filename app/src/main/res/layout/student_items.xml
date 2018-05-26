@@ -64,8 +64,7 @@
                 android:text="Course will be here"
                 android:textAllCaps="true"
                 android:textAppearance="@style/TextAppearance.AppCompat.Medium"
-                android:textSize="18sp"
-                app:fontFamily="@font/abhaya_libre_medium" />
+                android:textSize="18sp" />
 
 
         </LinearLayout>

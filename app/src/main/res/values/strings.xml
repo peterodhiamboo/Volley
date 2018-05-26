@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Recycleview_volley</string>
+    <string name="json">https://api.myjson.com/bins/dfcp2</string>
 </resources>
